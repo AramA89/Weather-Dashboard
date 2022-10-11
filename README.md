@@ -26,7 +26,8 @@ THEN I am again presented with current and future conditions for that city
 
 ## Deployed URL
 
-
+https://arama89.github.io/Weather-Dashboard/
 
 ## GitHub Repository
 
+https://github.com/AramA89/Weather-Dashboard
